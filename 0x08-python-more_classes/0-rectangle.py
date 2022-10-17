@@ -1,7 +1,7 @@
 #!/usr/bin/python3
+"""Defines a Rectangle class."""
 
 
 class Rectangle:
-    """A 2D polygon with 4 perpendicular sides.
-    """
+    """Represent a rectangle."""
     pass
